@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Agustina Regular";
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   src: local("Agustina Regular"),
     url("./assets/fonts/Agustina.woff") format("woff");
   font-display: swap;
